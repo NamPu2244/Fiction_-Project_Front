@@ -1,0 +1,12 @@
+@font-face {
+    font-family: fictoonfont;
+    src: url(/public/font/DB\ Helvethaica\ X\ Li\ Ext\ v3.2.ttf);
+}
+
+body{
+    font-family: fictoonfont;
+}
+
+h1 {
+    font-size: 500px;
+}

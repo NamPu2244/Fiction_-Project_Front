@@ -1,0 +1,72 @@
+{
+  "name": "fic_toon",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@ionic/react": "^7.6.2",
+    "@material-tailwind/react": "^2.1.8",
+    "@mui/icons-material": "^5.15.1",
+    "@mui/material": "^5.15.1",
+    "@popperjs/core": "^2.11.8",
+    "@preline/dropdown": "^2.0.2",
+    "@preline/overlay": "^2.0.2",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@tinymce/tinymce-react": "^4.3.2",
+    "@tiptap/core": "^2.1.15",
+    "@tiptap/extension-blockquote": "^2.1.15",
+    "@tiptap/extension-bold": "^2.1.15",
+    "@tiptap/extension-bullet-list": "^2.1.15",
+    "@tiptap/extension-link": "^2.1.15",
+    "@tiptap/extension-ordered-list": "^2.1.15",
+    "@tiptap/extension-paragraph": "^2.1.15",
+    "@tiptap/extension-placeholder": "^2.1.15",
+    "@tiptap/extension-underline": "^2.1.15",
+    "@tiptap/pm": "^2.1.13",
+    "@tiptap/react": "^2.1.13",
+    "@tiptap/starter-kit": "^2.1.15",
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "flowbite-react": "^0.7.2",
+    "ionicons": "^7.2.2",
+    "preline": "^2.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropdown": "^1.11.0",
+    "react-router-dom": "^6.21.1",
+    "react-scripts": "5.0.1",
+    "sweetalert2": "^11.10.1",
+    "sweetalert2-react-content": "^5.0.7",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
